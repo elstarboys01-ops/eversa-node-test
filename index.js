@@ -12,5 +12,6 @@ console.log("Memory     :", Math.round(os.totalmem() / 1024 / 1024), "MB");
 console.log("Directory  :", process.cwd());
 console.log("Status     : READY");
 console.log("");
+console.log("EVERSA AUTO UPDATE TEST V2");
 
 setInterval(() => {}, 1000);
